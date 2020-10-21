@@ -1,0 +1,28 @@
+{
+  "Key1": "Value1",
+  "Key2": "Value2",
+  "Key3": [
+    {
+      "Key3.1.1": "Value3.1.1",
+      "Key3.1.2": "Value3.2.2"
+    },
+    {
+      "Key3.2": "Value3.2"
+    }
+  ],
+  "Key4": {
+    "Key4.1": "Value4.1",
+    "Key4.2": [
+      "Value1",
+      2,
+      {
+        "Test": "Test1",
+        "Test2": false,
+        "Key4.2.1": {
+          "Test3": 10
+        }
+      }
+    ]
+  },
+  "Test":  "Test4"
+}
